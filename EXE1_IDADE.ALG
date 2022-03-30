@@ -12,13 +12,13 @@ Var
 
 Inicio
 
-  escreva("Digite seu nome ")
+  escreva("Digite seu nome: ")
   leia(nome)
 
-  escreva("Digite o ano de seu nascimento. ")
+  escreva("Digite o ano de seu nascimento: ")
   leia(ano_nc)
 
-  escreva("Digite o ano atual. ")
+  escreva("Digite o ano atual: ")
   leia(ano_at)
 
   idade <- ano_at - ano_nc
